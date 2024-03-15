@@ -6,5 +6,6 @@ public class FirstFile {
         six++;
 
         System.out.println(six);
+        //proverka
     }
 }
